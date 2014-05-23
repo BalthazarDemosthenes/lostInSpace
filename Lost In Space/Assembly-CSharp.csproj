@@ -47,11 +47,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\backgroundBehav.cs" />
-     <Compile Include="Assets\Scripts\enemyLazer.cs" />
      <Compile Include="Assets\Scripts\enemySprite1Behav.cs" />
      <Compile Include="Assets\Scripts\globalEnemyBehave.cs" />
+     <Compile Include="Assets\Scripts\lazerBehavior.cs" />
+     <Compile Include="Assets\Scripts\orbBehvaiour.cs" />
      <Compile Include="Assets\Scripts\playerBehav.cs" />
-     <Compile Include="Assets\Scripts\playerLazer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
